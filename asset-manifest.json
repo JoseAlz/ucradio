@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ucradio/static/css/main.0fb30129.chunk.css",
+    "main.js": "/ucradio/static/js/main.11971d1f.chunk.js",
+    "main.js.map": "/ucradio/static/js/main.11971d1f.chunk.js.map",
+    "runtime-main.js": "/ucradio/static/js/runtime-main.4327dd32.js",
+    "runtime-main.js.map": "/ucradio/static/js/runtime-main.4327dd32.js.map",
+    "static/js/2.fe83c43c.chunk.js": "/ucradio/static/js/2.fe83c43c.chunk.js",
+    "static/js/2.fe83c43c.chunk.js.map": "/ucradio/static/js/2.fe83c43c.chunk.js.map",
+    "static/js/3.5181ff6c.chunk.js": "/ucradio/static/js/3.5181ff6c.chunk.js",
+    "static/js/3.5181ff6c.chunk.js.map": "/ucradio/static/js/3.5181ff6c.chunk.js.map",
+    "index.html": "/ucradio/index.html",
+    "static/css/main.0fb30129.chunk.css.map": "/ucradio/static/css/main.0fb30129.chunk.css.map",
+    "static/js/2.fe83c43c.chunk.js.LICENSE.txt": "/ucradio/static/js/2.fe83c43c.chunk.js.LICENSE.txt",
+    "static/media/uc16.9d13b153.svg": "/ucradio/static/media/uc16.9d13b153.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4327dd32.js",
+    "static/js/2.fe83c43c.chunk.js",
+    "static/css/main.0fb30129.chunk.css",
+    "static/js/main.11971d1f.chunk.js"
+  ]
+}
